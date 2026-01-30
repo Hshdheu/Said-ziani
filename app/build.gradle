@@ -1,0 +1,6 @@
+plugins {
+    id 'com.android.application' version '7.4.0' apply false
+    id 'org.jetbrains.kotlin.android' version '1.8.0' apply false
+}
+
+// NOTE: Replace with a proper Android project configuration or import into Android Studio to generate Gradle wrapper.

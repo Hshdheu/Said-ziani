@@ -1,0 +1,20 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+*/build
+.gradle
+
+# Android Studio
+.idea/
+.gradle/
+built/
+*/build/
+
+# Keystore
+*.jks
